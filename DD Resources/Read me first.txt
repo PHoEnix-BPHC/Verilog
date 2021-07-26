@@ -1,0 +1,6 @@
+Verilog is a hardware description language used to model electronics systems.  
+It has a syntax like computer programming languages but requires some background knowledge. 
+You will have to know about digital circuits. 
+The first pdf DD.pdf gives an introduction to digital design and circuits. 
+The second pdf (DD resources) contains links to material you can go through. 
+Noise margin and flip flops and latches are two optional topics.
