@@ -1,0 +1,14 @@
+iverilog + GTK Wave installation links for Verilog:
+Note: You can use IDE's such as visual studio or text editors as notepad as per your convenience.
+1) Windows
+https://www.youtube.com/watch?v=hg9splN_83Y
+https://www.youtube.com/watch?v=XvqFymSNUsg
+2) MacOS
+https://www.youtube.com/watch?v=jUYkYoYr8hs
+3) Linux
+https://www.youtube.com/watch?v=nY150XXEj6M
+
+Hope you have a good day frend
+-VBaya(Verilog Instructor)
+
+PS: https://www.youtube.com/watch?v=o-YBDTqX_ZU
